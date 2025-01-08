@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RushPlayz
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on YouTube
 - 📫 How to reach me come to discord (reveal soon)
 
 <!---
